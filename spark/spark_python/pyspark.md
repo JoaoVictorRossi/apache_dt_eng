@@ -4,5 +4,7 @@ API do Apache Spark para o desenvolvimento utilizando a linguagem Python, combin
 - [RDDs](rdd.md)
 - [DataFrames](dataframe.md)
 - [Definição de Schemas](schemas.md)
+- [Trabalhando com Arquivos](arquivos-spark.md)
+- [Utilidades](utilizades.md)
 ---
 **[Voltar](../apache-spark.md)**

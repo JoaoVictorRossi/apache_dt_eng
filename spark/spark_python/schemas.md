@@ -38,3 +38,5 @@ df = spark.createDataFrame(data, schema)
 | ArrayType | Representa uma lista ordenada de valores de um tipo específico. Pode ser um tipo primitivo ou um StructType. | ["João", "Maria", "Carlos"], [1, 2, 3] |
 | MapType | Representa um conjunto de pares chave-valor, onde tanto a chave quanto o valor podem ter tipos definidos. | {"chave1": "valor1", "chave2": "valor2"} |
 | StructType | 	Representa um tipo de dados estruturados, onde cada campo pode ter um tipo específico (usado para representar tabelas). | StructType([StructField("Nome", StringType()), StructField("Idade", IntegerType())]) |
+---
+**[Voltar](./pyspark.md)**
