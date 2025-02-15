@@ -73,5 +73,6 @@ print("Soma dos elementos:", soma)  # Saída: 100
 
 # Pegando os dois primeiros elementos
 print("Primeiros elementos:", rdd.take(2))  # Saída: [10, 20]
-
 ````
+---
+**[Voltar](./pyspark.md)**
