@@ -4,3 +4,4 @@ Framework para computação distribuida voltado para processamento de Big Data, 
 - **Diversas Linguagens:** Possui APIs de desenvolvimento para diversas linguagens (Python, Scala, Java e R).
 - **Modelo RDD:** Permite operações distribuídas com poucas linhas de código.
 1. [PySpark](./spark_python/pyspark.md)
+2. [Delta Lake](./delta_lake/delta_lake.md)
