@@ -26,3 +26,6 @@ Utilizado para conectar processadores.
 Link entre processadores, funcionando como uma fila.
 ## Grupo de processos
 Conjundo de fluxos, utilizado para facilitar e organizar os processos dentro do NiFi.
+
+---
+**[Voltar](../apache-nifi.md)**
