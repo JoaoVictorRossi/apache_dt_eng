@@ -2,8 +2,12 @@
 1. [Primeiro fluxo de dados](primeiro-fluxo.md)
 
 ## Trabalhando com arquivos
-1. [Salvando arquivos de dados](fluxo-salvando-arquivos.md)
+1. [Salvando arquivos de dados](salvando-arquivos.md)
 2. [Movimentando arquivos](movimentando-arquivos.md)
-3. [Compactando arquivos](compactando-arquivo)
+3. [Compactando arquivos](compactando-arquivo.md)
+
+## Tratando dados
+Quandos estamos trabalhando com manipulação e tratamento de dados no Apache NiFi, é comun a necessidade de uma linguagem interna do NiFi, chamada [Expression Language](https://nifi-apache-org.translate.goog/docs/nifi-docs/html/expression-language-guide.html?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
+1. [Filtrando Flow file](filtrando-flowfile.md)
 ---
 **[Voltar](../apache-nifi.md)**
