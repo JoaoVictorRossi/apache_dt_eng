@@ -16,6 +16,5 @@
 6. E por fim, adicionei mais um processor para inserir o arquivo filtrado dentro de um diretório.
 
 ![Filtrando FlowFile5](../Imgs/fluxo/fluxo_filtrando_flowfile/filtrando-flowfile5.png)
-
 ---
 **[Voltar](./fluxo-dados.md)**
