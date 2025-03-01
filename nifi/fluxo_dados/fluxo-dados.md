@@ -11,6 +11,8 @@ Quandos estamos trabalhando com manipulação e tratamento de dados no Apache Ni
 1. [Filtrando Flow file](filtrando-flowfile.md)
 2. [Manipulando Dados](manipulando-flowfile.md)
 3. [Trabalhando com XML](trabalhando-xml.md)
+
+## Outros componentes
 4. [Logs e Integração de fluxos](integrando-fluxo.md)
 ---
 **[Voltar](../apache-nifi.md)**

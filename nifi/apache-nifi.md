@@ -8,3 +8,4 @@ Plataforma desenvolvida em Java de ingestão de dados, criadas para processar, d
 - Possibilidade de trabalhar em cluster.
 1. [Arquitetura e Componentes](./arquitetura/arquitetura.md)
 2. [Desenvolvimento do Fluxo](./fluxo_dados/fluxo-dados.md)
+3. [Outros Componentes](./componentes/componentes.md)
