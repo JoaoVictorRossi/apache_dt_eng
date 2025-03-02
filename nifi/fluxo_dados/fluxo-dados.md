@@ -13,6 +13,9 @@ Quandos estamos trabalhando com manipulação e tratamento de dados no Apache Ni
 3. [Trabalhando com XML](trabalhando-xml.md)
 
 ## Outros componentes
-4. [Logs e Integração de fluxos](integrando-fluxo.md)
+1. [Logs e Integração de fluxos](integrando-fluxo.md)
+
+## Componentes Externos
+1. [API e Banco de Dados](api-db.md)
 ---
 **[Voltar](../apache-nifi.md)**
