@@ -9,3 +9,4 @@ Inclui diversas ferramentas/tecnologias para faciliar o armazenamento, processam
 1. [Hadoop Distributed File System (HDFS)](./ecosistema_hadoop/hdfs.md)
 2. [MapReduce](./ecosistema_hadoop/map-reduce.md)
 3. [Sqoop](./ecosistema_hadoop/sqoop.md)
+4. [Hive](./ecosistema_hadoop/hive.md)
