@@ -7,3 +7,6 @@ Um Datawarehouse dentro do hadoop, permite todas as funcionalidades e vantagens 
 Dentro do Hive é possível ter dois tipos de tabela:
 - Tabelas Gerenciadas/Internas: Hive controla o ciclo de vida dos dados.
 - Tabelas Externas: Dados são contralados fora do Hive, úteis para integração com outras ferramentas.
+
+---
+**[Voltar](../hadoop.md)**
