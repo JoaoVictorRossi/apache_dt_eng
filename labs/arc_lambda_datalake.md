@@ -185,7 +185,7 @@ var=$(mysql --user=root --password=cloudera retail_db -s -e "select max(customer
 
 sqoop job --delete speedlayer
 
-sqoop job -D sqoop.metastore.client.record.password=true --create batchlayer -- import --connect jdbc:mysql://localhost/retail_db --table customers --username root --password cloudera --check-column customer_id --incremental append --last-value 12436 -m 1 --target-dir /user/cloudera/customerspeed/
+sqoop job -D sqoop.metastore.client.record.password=true --create batchlayer -- import --connect jdbc:mysql://localhost/retail_db --table customers --username root --password cloudera --check-column customer_id --incremental append --last-value $var -m 1 --target-dir /user/cloudera/customerspeed/
 ```
 
 - #!/bin/bash: indica que o script deve ser executado usando o interpretador Bash.
